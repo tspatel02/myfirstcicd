@@ -19,6 +19,7 @@ import static org.junit.jupiter.api.Assertions.*;
 public class EmployeeTest {
     
     Employee emp;
+    int a =0;
     
     public EmployeeTest() {
     }
